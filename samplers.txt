@@ -1,0 +1,6 @@
+login - Login controller
+
+search for flight and give all the details and select flight -3 request = Flight selection 
+
+passengar details, Payment information and confirm booking = Reservation
+
